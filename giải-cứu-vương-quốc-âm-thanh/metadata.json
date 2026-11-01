@@ -1,0 +1,6 @@
+{
+  "name": "Giải Cứu Vương Quốc Âm Thanh",
+  "description": "Học liệu số trò chơi tương tác phát triển nhận thức và ngôn ngữ dành cho trẻ mầm non 4-5 tuổi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
